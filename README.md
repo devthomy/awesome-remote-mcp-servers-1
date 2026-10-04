@@ -1020,6 +1020,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [Adrails](https://adrails.ai) `https://adrails.ai/api/mcp`
+  [![Adrails MCP connector](https://glama.ai/mcp/connectors/ai.adrails/adrails/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adrails/adrails)
+  🔐 - Specialist agents for Meta Ads and Google Ads; every account change waits for your approval.
+
 - [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
   [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
